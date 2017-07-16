@@ -22,7 +22,7 @@ var BleService = require('./ble-service');
 //
 // A name to advertise our Pizza Service.
 //
-var name = 'CDK-Bluetooth-Services';
+var name = 'View_Offers_Services';
 var bleService = new BleService(new bleApp.Pizza());
 
 //
